@@ -10,8 +10,9 @@ HealthAI is a SwiftUI iOS app that integrates Apple HealthKit and an AI-powered 
 
 ## Screenshots
 
-![Health Chat](screenshots/chat.png)
-![Health Charts](screenshots/charts.png)
+![Health Chat](media/healthai-demo-pic-3.png)
+![Health Charts](media/healthai-demo-pic-1.png)
+![Video Overview](media/healthai-demo-vid.mov)
 
 ## Setup Instructions
 
