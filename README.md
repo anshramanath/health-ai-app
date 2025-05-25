@@ -1,4 +1,4 @@
-# HealthAI
+# 🤖 HealthAI App
 
 HealthAI is a SwiftUI iOS app that integrates Apple HealthKit and an AI-powered chatbot to help users monitor their health metrics and receive personalized feedback.
 
